@@ -55,3 +55,9 @@ Os padrões de requisição obedecem aos screenshots acima.
 Se você não tiver Docker, lamentamos, terá que instalar os pacotes:
 
 `pip3 install -r requirements.txt`
+
+## Vídeo
+
+O vídeo está disponível no Google drive pelo [link](https://drive.google.com/file/d/1OcuJsOTEuTZimUAcdugJ44DAMJarfNTG/view?usp=sharing)
+
+
